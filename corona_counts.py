@@ -41,3 +41,4 @@ for stat in stats:
 fg.add_child(folium.Marker(location=coordinate, popup=result, icon=folium.Icon(color="Green")))
 mapped_object.add_child(fg)
 mapped_object
+#TESTING TESTING TESTING miraclemaster
